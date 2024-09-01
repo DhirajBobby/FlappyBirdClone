@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: eebf283f819276045a0086ad282a05d6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - BirdJumpSound: {fileID: 8300000, guid: 8440ebbd8ae17f0419d7e8953e523367, type: 3}
+  - BirdDieSound: {fileID: 8300000, guid: d8be3a61d2edf1f4193ba1ae6b99f687, type: 3}
+  - ScorePointSound: {fileID: 8300000, guid: 03207d8b54e365c4ba86d852e1cb94b5, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
