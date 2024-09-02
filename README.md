@@ -18,6 +18,7 @@ This project is a faithful reproduction of the classic Flappy Bird game, where p
 ![Game Screenshot 2](Screenshots/Screenshot2.png)
 ![Game Screenshot 3](Screenshots/Screenshot3.png)
 ![Game Screenshot 4](Screenshots/Screenshot4.png)
+![Gameplay Video](Screenshots/Gameplay.mp4)
 
 ## Features
 

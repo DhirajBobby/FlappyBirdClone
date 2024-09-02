@@ -50,6 +50,7 @@ public class GameManager : MonoBehaviour
         }
     }
 
+
     //Add score and check if it's a highscore
     public void AddScore()
     {
