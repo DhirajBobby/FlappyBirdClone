@@ -14,6 +14,11 @@ Welcome to the Flappy Bird Clone project! This is a recreation of the popular Fl
 
 This project is a faithful reproduction of the classic Flappy Bird game, where players navigate a bird through a series of pipes by tapping the screen or pressing a key. The game includes various elements such as scoring, game-over conditions, and basic animations.
 
+![Game Screenshot 1](Screenshots/Screenshot1.png)
+![Game Screenshot 2](Screenshots/Screenshot2.png)
+![Game Screenshot 3](Screenshots/Screenshot3.png)
+![Game Screenshot 4](Screenshots/Screenshot4.png)
+
 ## Features
 
 - **2D Physics**: Realistic bird movement with gravity.
