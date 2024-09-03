@@ -7,6 +7,7 @@ Welcome to the Flappy Bird Clone project! This is a recreation of the popular Fl
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Download](#download)
 - [Contributing](#contributing)
 - [Acknowledgements](#acknowledgements)
 
@@ -59,6 +60,9 @@ Once you have the project set up:
 - Try to navigate through the pipes to score points.
 - The game ends when the bird collides with a pipe or the ground.
 - Restart the game by clicking the restart button on the game over screen.
+
+## Download
+You can download the APK file [here](Build/Flappy%20Bird.apk).
 
 ## Contributing
 
